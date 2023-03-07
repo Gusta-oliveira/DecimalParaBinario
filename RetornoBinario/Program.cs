@@ -1,6 +1,6 @@
 ﻿using System.Security.AccessControl;
 
-int numero, coef, restodiv;
+int numero; ;
 int[] bin = new int[8];
 Console.Write("Informe o número para converter em binário: ");
 numero = int.Parse(Console.ReadLine());
